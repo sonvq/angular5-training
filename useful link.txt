@@ -1,0 +1,3 @@
+https://plnkr.co/edit/EQ4BpwHrk68T8rK0OWFO?p=preview
+
+https://codecraft.tv/courses/angular/quickstart/property-and-event-binding/
